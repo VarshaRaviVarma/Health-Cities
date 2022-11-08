@@ -21,7 +21,11 @@ Local awareness: This work will deliver real time environmental information to s
 ## Roles I am responsible for:
 
 National Weather Services (NWS) web scraping-web-scraping)
+
 Database management for the scraped NWS data
+
 Visualizing collected data
+
 Automating message and email triggers (emails, whatsapp and text messages)
+
 Parsing 911 call data related to heat
